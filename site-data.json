@@ -1,0 +1,107 @@
+{
+  "phones": [
+    "Apple|iPhone 17 Pro|1099|2025-09-19|6.3|6.3\" LTPO OLED, 120Hz|Apple A19 Pro|12|256GB/512GB/1TB/2TB|48MP main + 48MP ultrawide + 48MP 4x tele; 18MP selfie|48|4250|35|iOS 26|150 x 71.9 x 8.75 mm, 206 g|5G, Wi-Fi 7, Bluetooth 6|Cosmic Orange,Deep Blue,Silver|Fastest chip;Strong video;Good cooling|Expensive;Modest charging speed|flagship,camera,gaming",
+    "Samsung|Galaxy S25 Ultra|1299|2025-02-07|6.9|6.9\" QHD+ AMOLED, 120Hz|Snapdragon 8 Elite for Galaxy|12|256GB/512GB/1TB|200MP main + 50MP 5x + 10MP 3x + 50MP ultrawide|200|5000|45|Android 15, One UI 7|162.8 x 77.6 x 8.2 mm, 218 g|5G, Wi-Fi 7, Bluetooth 5.4|Titanium Black,Titanium Gray,Titanium Silverblue|Versatile cameras;S Pen;Long software support|Heavy;High price|flagship,camera,gaming",
+    "Google|Pixel 10 Pro|999|2025-08-28|6.3|6.3\" LTPO OLED, 120Hz|Google Tensor G5|16|128GB/256GB/512GB/1TB|50MP main + 48MP ultrawide + 48MP 5x tele; 42MP selfie|50|4870|30|Android 16|152.8 x 72 x 8.6 mm, 207 g|5G, Wi-Fi 7, Bluetooth 6|Obsidian,Porcelain,Moonstone|Best AI features;7 years of updates;Compact|Slower under heavy load|flagship,camera",
+    "Xiaomi|Xiaomi 15 Ultra|1299|2025-03-02|6.73|6.73\" LTPO AMOLED WQHD+, 120Hz|Snapdragon 8 Elite|16|256GB/512GB/1TB|50MP 1-inch main + 200MP 4.3x + 50MP 3x + 50MP ultrawide|200|5410|90|Android 15, HyperOS 2|161.3 x 75.3 x 9.48 mm, 226 g|5G, Wi-Fi 7, Bluetooth 6|Black,White,Silver Chrome|Excellent zoom;Fast charging|Large and heavy;Limited availability|flagship,camera",
+    "Redmi|Redmi Note 14 Pro+ 5G|399|2025-01-10|6.67|6.67\" AMOLED 1.5K, 120Hz|Snapdragon 7s Gen 3|8|256GB/512GB|200MP main + 8MP ultrawide + 2MP macro; 20MP selfie|200|5110|90|Android 14, HyperOS|162.5 x 74.7 x 8.7 mm, 205 g|5G, Wi-Fi 6, Bluetooth 5.2|Midnight Black,Coral Purple,Aurora Blue|Great screen;Very fast charging|Mid-range chip;Ads in software|budget,value,student",
+    "OnePlus|OnePlus 13|899|2025-01-10|6.82|6.82\" LTPO AMOLED QHD+, 120Hz|Snapdragon 8 Elite|12|256GB/512GB/1TB|50MP main + 50MP 3x tele + 50MP ultrawide; 32MP selfie|50|6000|100|Android 15, OxygenOS 15|162.9 x 76.5 x 8.5 mm, 210 g|5G, Wi-Fi 7, Bluetooth 5.4|Black Eclipse,Arctic Dawn,Midnight Ocean|Huge battery;100W charging|No official IP69 in all regions|flagship,battery,gaming,value",
+    "Nothing|Nothing Phone (3)|799|2025-07-15|6.67|6.67\" AMOLED, 120Hz|Snapdragon 8s Gen 4|12|256GB/512GB|50MP main + 50MP 3x periscope + 50MP ultrawide; 50MP selfie|50|5500|65|Android 15, Nothing OS 3.5|160.6 x 75.6 x 9 mm, 218 g|5G, Wi-Fi 7, Bluetooth 5.4|White,Black|Distinct design;Clean software|Not the top chip|flagship,value",
+    "Samsung|Galaxy A56 5G|499|2025-03-26|6.7|6.7\" Super AMOLED, 120Hz|Exynos 1580|8|128GB/256GB|50MP main + 12MP ultrawide + 5MP macro; 12MP selfie|50|5000|45|Android 15, One UI 7|162.2 x 77.5 x 7.4 mm, 198 g|5G, Wi-Fi 6E, Bluetooth 5.3|Awesome Graphite,Olive,Lightgray|Slim and light;6 years of updates|Mid-range performance|budget,value,student",
+    "ASUS|ROG Phone 9 Pro|1199|2024-11-19|6.78|6.78\" AMOLED, 185Hz|Snapdragon 8 Elite|16|512GB|50MP main + 13MP ultrawide + 32MP 3x tele; 32MP selfie|50|5800|65|Android 15, ROG UI|163.8 x 76.8 x 8.9 mm, 227 g|5G, Wi-Fi 7, Bluetooth 5.4|Phantom Black|Best gaming controls;Active cooling accessory|Bulky;Average cameras|gaming,flagship,battery",
+    "Sony|Xperia 1 VII|1399|2025-06-12|6.5|6.5\" FHD+ OLED, 120Hz|Snapdragon 8 Elite|12|256GB/512GB|48MP main + 48MP 3.5-7.1x tele + 48MP ultrawide; 12MP selfie|48|5000|30|Android 15|162 x 74 x 8.2 mm, 197 g|5G, Wi-Fi 7, Bluetooth 5.4|Black,Orchid Purple,Moss Green|Headphone jack;microSD slot;Pro camera app|Highest price in class|flagship,camera",
+    "Honor|Magic7 Pro|1299|2025-01-15|6.8|6.8\" LTPO OLED, 120Hz|Snapdragon 8 Elite|12|512GB|50MP main + 200MP 3x tele + 50MP ultrawide; 50MP selfie|200|5270|100|Android 15, MagicOS 9|162.7 x 77.1 x 8.8 mm, 223 g|5G, Wi-Fi 7, Bluetooth 5.4|Black,Lunar Shadow Grey|Bright display;Fast charging|Battery smaller in Europe|flagship,camera",
+    "Motorola|Razr 60 Ultra|1299|2025-05-15|7|7\" LTPO pOLED foldable, 165Hz|Snapdragon 8 Elite|16|512GB|50MP main + 50MP ultrawide; 50MP selfie|50|4700|68|Android 15|171.5 x 74 x 7.3 mm unfolded, 199 g|5G, Wi-Fi 7, Bluetooth 5.4|Rio Red,Scarab,Mountain Trail|Large cover screen;Compact when folded|Battery is average|flagship",
+    "OPPO|Find X8 Pro|1099|2024-11-21|6.78|6.78\" LTPO AMOLED, 120Hz|MediaTek Dimensity 9400|16|512GB|50MP main + 50MP 3x tele + 50MP 6x tele + 50MP ultrawide|50|5910|80|Android 15, ColorOS 15|162.3 x 76.7 x 8.3 mm, 215 g|5G, Wi-Fi 7, Bluetooth 5.4|Pearl White,Space Black|Two periscope lenses;Big battery|Not sold in the US|flagship,camera,battery",
+    "vivo|X200 Pro|1099|2024-12-19|6.78|6.78\" LTPO AMOLED, 120Hz|MediaTek Dimensity 9400|16|512GB|50MP main + 200MP 3.7x tele + 50MP ultrawide; 32MP selfie|200|6000|90|Android 15, Funtouch OS 15|162 x 77.6 x 8.2 mm, 223 g|5G, Wi-Fi 7, Bluetooth 5.4|Cosmos Black,Titanium|Telephoto quality;Battery life|Limited regions|flagship,camera,battery",
+    "Realme|GT 7 Pro|729|2024-11-26|6.78|6.78\" LTPO AMOLED, 120Hz|Snapdragon 8 Elite|12|256GB/512GB|50MP main + 50MP 3x tele + 8MP ultrawide; 16MP selfie|50|6500|120|Android 15, Realme UI 6|162.5 x 76.9 x 8.5 mm, 222.8 g|5G, Wi-Fi 7, Bluetooth 5.4|Mars Orange,Galaxy Grey|Flagship chip for less;120W charging|Software less polished|gaming,battery,value",
+    "Huawei|Pura 70 Ultra|1380|2024-04-18|6.8|6.8\" LTPO OLED, 120Hz|HiSilicon Kirin 9010|16|512GB/1TB|50MP 1-inch main + 50MP periscope + 40MP ultrawide; 13MP selfie|50|5200|100|HarmonyOS 4.2|162.6 x 75.1 x 8.4 mm, 226 g|5G, Wi-Fi 7, Bluetooth 5.2|Black,Brown,Green|Pop-out main camera;Strong build|No Google services|flagship,camera",
+    "Nokia|G42 5G|229|2023-07-12|6.56|6.56\" LCD, 90Hz|Snapdragon 480+|6|128GB|50MP main + 2MP macro + 2MP depth; 8MP selfie|50|5000|20|Android 13|165.2 x 75.9 x 8.5 mm, 194 g|5G, Wi-Fi 5, Bluetooth 5.1|So Grey,So Purple|Repairable;Low price|Basic performance;Slow charging|budget,student"
+  ],
+  "upcoming": [
+    [
+      "Samsung Galaxy S27 Ultra",
+      "Samsung",
+      "2027-02",
+      "Expected early 2027, unconfirmed"
+    ],
+    [
+      "Xiaomi 18 Ultra",
+      "Xiaomi",
+      "2027-03",
+      "Expected spring 2027, unconfirmed"
+    ],
+    [
+      "Nothing Phone (4)",
+      "Nothing",
+      "2027-07",
+      "Rumoured mid 2027"
+    ],
+    [
+      "Google Pixel 11 Pro",
+      "Google",
+      "2027-08",
+      "Expected August 2027, unconfirmed"
+    ],
+    [
+      "Apple iPhone 18 Pro",
+      "Apple",
+      "2027-09",
+      "Expected September 2027, unconfirmed"
+    ]
+  ],
+  "news": [
+    [
+      "Tech",
+      "Silicon-carbon batteries: why 6,000mAh phones keep getting slimmer",
+      "Denser cells now fit more capacity in the same body, and mid-range phones are starting to follow."
+    ],
+    [
+      "Update",
+      "Seven years of updates is becoming a buying factor",
+      "Longer software support lowers the real cost of owning a phone. Check each brand’s policy before you buy."
+    ],
+    [
+      "Tech",
+      "Wi-Fi 7 explained: do you need it yet?",
+      "Faster, steadier connections need a Wi-Fi 7 router too. Most people will not notice a difference today."
+    ],
+    [
+      "Leak",
+      "Telephoto cameras trickle down to cheaper phones",
+      "Rumours point to periscope lenses reaching sub-$700 models. Treat this as unconfirmed."
+    ]
+  ],
+  "regions": [
+    [
+      "United States",
+      "$",
+      1
+    ],
+    [
+      "United Kingdom",
+      "£",
+      0.85
+    ],
+    [
+      "Eurozone",
+      "€",
+      0.98
+    ],
+    [
+      "India",
+      "₹",
+      92
+    ],
+    [
+      "UAE",
+      "AED ",
+      3.9
+    ],
+    [
+      "Japan",
+      "¥",
+      152
+    ]
+  ]
+}
